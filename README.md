@@ -2,7 +2,8 @@
 Hvis det har nogen interesse, så ligger filhistorikken for .js filerne fra VS i .history folderen.
 
 ## Tirsdag - Callbacks and more
-    Selve JS filen (Tirsdag.js) ligger i roden af projektet, vil fremover ligge den i en seperat folder. Har lavet alt ned til 5. Reduce
+    Selve JS filen (Tirsdag.js) ligger i roden af projektet, vil fremover ligge den i en seperat folder. 
+    Har lavet alt ned til 5. Reduce
     
 ## Onsdag - Fetch and Promises
     Selve JS filen (Onsdag.js) ligger i roden af projektet, vil fremover ligge den i en seperat folder. 
