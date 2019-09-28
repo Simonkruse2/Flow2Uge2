@@ -1,0 +1,13 @@
+window.onload = function() {
+  var country;
+  var prevCountry;
+  document.getElementById("svg2").addEventListener("click", function() {
+    if (prevCountry != null)
+      document.getElementById(prevCountry).style.fill = "c0c0c0";
+
+    country = event.target.id;
+    document.getElementById(country).style.fill = "red";
+
+    prevCountry = country;
+  });
+};
