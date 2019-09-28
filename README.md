@@ -2,9 +2,10 @@
 
 
 ## Tirsdag - Callbacks and more
-    Har lavet alt ned til 5. Reduce
+    Selve JS filen (Tirsdag.js) ligger i roden af projektet, vil fremover ligge den i en seperat folder. Har lavet alt ned til 5. Reduce
     
 ## Onsdag - Fetch and Promises
+    Selve JS filen (Onsdag.js) ligger i roden af projektet, vil fremover ligge den i en seperat folder. 
     Har lavet alt ned til opgave 4 "Ajax with a full REST CRUD Endpoint and Error-handling"
     Fik bl.a. lavet opgaven med kløveret.
     
